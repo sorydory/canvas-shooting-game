@@ -80,7 +80,7 @@ function loadImage() {
   backgroundImage = new Image();
   backgroundImage.src = "images/bg.png";
   spaceshipImage = new Image();
-  spaceshipImage.src = "images/u.png";
+  spaceshipImage.src = "images/roket.png";
   bulletImage = new Image();
   bulletImage.src = "images/bullet.png";
   enemyImage = new Image();
